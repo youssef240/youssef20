@@ -1,0 +1,68 @@
+.body{
+   background-color: red;
+   color: white;
+   font-size: 90%;
+   font-family: Arial;
+   line-height:2;
+   text-align: left;  
+}
+.body{
+   margin:  auto; 
+   width: 1500px;
+}
+a{text-decoration: none;}
+a:link, a:visited {color: #95a5a6;}
+a:hover, a:active {color: #FFFAFA;}
+
+.mainheader nav {
+   background-color: black;
+   height: 100px;
+   width: 100%;
+   border-radius: 500px;
+}        
+.mainheader nav ul {
+   font-size: 100%;
+   text-align: left;
+   list-style: none;
+   margin: 5px -30px;
+}
+
+.mainheader nav ul li {
+   display: inline-block;
+   cursor: pointer;
+   padding: 5px;
+}
+.logo {
+   margin-top: 15px;
+   margin-bottom: 0 25px;
+   font-family: boardway;
+   font-size: 300%;
+}
+
+.logo img {
+   width: 10%;
+   height: 10%;
+   color: #95a5a6;
+}
+.sign-in-btn{
+   top: 0;	
+   right: 0;
+   position: left;
+}
+
+.register-btn{
+   top: 0;	
+   right: auto;
+   position: left;
+}  
+.Arsenal img {
+   height: 450px;
+   width: 750px;
+   float: right;
+   border-radius: 15px;
+}
+.icon img {
+   width: 455px;
+   display: inline;
+   list-style: none;
+}
